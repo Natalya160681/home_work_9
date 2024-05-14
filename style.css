@@ -8,12 +8,16 @@
     --color-paragragh: #727272;
 
 }
+header {
+    height: 700px;
+    padding-left: 399px;
+}
 
 .conteiner-menu {
     width: 611px;
     height: 16px;
     margin-top: 79px;
-    margin-left: 399px;
+/*     margin-left: 399px; */
 
 }
 
@@ -40,7 +44,7 @@ h1 {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 48px;
-    margin-left: 399px;
+/*     margin-left: 399px; */
     padding-top: 162px;
 
 }
@@ -52,7 +56,7 @@ h1 {
     font-size: 16px;
     width: 540px;
     height: 67px;
-    margin-left: 399px;
+/*     margin-left: 399px; */
     padding-top: 60px;
     padding-left: 1px;
 
@@ -64,7 +68,7 @@ button {
     font-family: var(--font-family);
     background-color: var(--color-button-main-footer);
     margin-top: 65px;
-    margin-left: 399px;
+/*     margin-left: 399px; */
     margin-bottom: 141px;
     text-align: center;
     color: #fff;
@@ -80,6 +84,8 @@ button {
     margin: auto;
     width: 540px;
     height: 147px;
+    background-color: #fff;
+
 }
 
 h2 {
